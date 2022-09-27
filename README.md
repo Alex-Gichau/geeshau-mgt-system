@@ -4,3 +4,6 @@ Google Sheets as Database for input and viewing data. #DataManipulation
 
 # GOAL: 
 * Emulate portal based systems: 
+
+Neat Dashboard for data: 
+https://youtu.be/yKV1IGahXqA
