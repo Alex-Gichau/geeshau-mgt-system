@@ -7,6 +7,7 @@ Google Sheets as Database for input and viewing data. #DataManipulation
 
 Neat Dashboard for data: 
 https://youtu.be/yKV1IGahXqA
+Demo Dashboard: https://demos.creative-tim.com/material-dashboard-react/#/dashboard
 
 # Create a new repository on the command line
 1. git init
