@@ -27,9 +27,11 @@ const Navbar = () => {
           </div>
           <div className="item">
             <NotificationsNoneOutlined className="icon"/>
+            <div className="counter">1</div>
           </div>
           <div className="item">
             <ChatBubbleOutline className="icon"/>
+            <div className="counter">2</div>
           </div>
           <div className="item">
             <ListOutlined className="icon"/>
