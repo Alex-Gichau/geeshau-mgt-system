@@ -14,31 +14,31 @@ const Widgets = ({ type }) => {
                 title: "USERS",
                 isMoney: false,
                 link: "See all users",
-                icon: <PersonOutlined className="icon" style={{ color: 'red', backgroundColor:"lightblue"}} />,
+                icon: <PersonOutlined className="icon" style={{ color: 'red', backgroundColor:"yellow"}} />,
             };
             break;
         case "order":
             data = {
                 title: "ORDERS",
-                isMoney: false,
+                isMoney: true,
                 link: "View all orders",
-                icon: <ShoppingCartOutlined className="icon" />,
+                icon: <ShoppingCartOutlined className="icon" style={{ color: 'white', backgroundColor:"red"}} />,
             };
             break;
         case "earning":
             data = {
                 title: "EARNING",
-                isMoney: false,
+                isMoney: true,
                 link: "View net earnings",
-                icon: <MonetizationOnOutlined className="icon" />,
+                icon: <MonetizationOnOutlined className="icon" style={{ color: 'white', backgroundColor:"gray"}} />,
             };
             break;
         case "balance":
             data = {
                 title: "BALANCE",
-                isMoney: false,
+                isMoney: true,
                 link: "See details",
-                icon: <AccountBalanceOutlined className="icon" />,
+                icon: <AccountBalanceOutlined className="icon" style={{ color: 'yellow', backgroundColor:"green"}} />,
             };
             break;
         default:
@@ -50,14 +50,14 @@ const Widgets = ({ type }) => {
             <div className='left'>
                 <span className="title">{data.title}</span>
                 <span className="counter">
-                    {data.isMoney && "$"} {amount}
+                    <span className="currency">{data.isMoney && "Ksh."}</span> {amount}
                 </span>
                 <span className="link">{data.link}</span>
 
             </div>
             <div className='right'>
                 <div className="percentage positive">
-                    <KeyboardArrowUp />
+                    <KeyboardArrowUp/>
                     {diff} %
                 </div>
                 {data.icon}

@@ -4,7 +4,7 @@ import "./home.scss";
 import Widgets from "../../components/widgets/Widgets";
 import Featured from "../../components/featured/Featured";
 import Charts from "../../components/charts/Charts"
-
+import Table from "../../components/table/Table";
 const Home = () => {
   return (
     <div className="home">
@@ -21,9 +21,14 @@ const Home = () => {
           <Featured/>
           <Charts/>
         </div>
+        <div className="listContainer">
+          <div className="listTitle">Latest Transactions</div>
+          <Table/>
+        </div>
       </div>
     </div>
   )
+  
 }
 
 export default Home

@@ -24,13 +24,18 @@ $background-color:rgb(255, 255, 255);
     .title {
         font-weight: bold;
         font-size: 14px;
-        color: grey;
+        color: gray;
 
     }
 
     .counter {
-        font-style: 28px;
-        font-weight: 300;
+        font-size: 30px;
+        font-weight: 800;
+
+        .currency {
+            font-size: small;
+            vertical-align: super;
+        }
     }
 
     .link {
@@ -61,7 +66,6 @@ $background-color:rgb(255, 255, 255);
         color: $main-color;
         background-color: rgb(155, 255, 255);
         
-
     }
 
 }
