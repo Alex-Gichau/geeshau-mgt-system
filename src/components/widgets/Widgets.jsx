@@ -53,7 +53,6 @@ const Widgets = ({ type }) => {
                     <span className="currency">{data.isMoney && "Ksh."}</span> {amount}
                 </span>
                 <span className="link">{data.link}</span>
-
             </div>
             <div className='right'>
                 <div className="percentage positive">

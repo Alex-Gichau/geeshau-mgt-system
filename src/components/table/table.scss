@@ -1,0 +1,28 @@
+.table {
+    .cellWrapper {
+        display: flex;
+        align-items: center;
+
+        .image {
+            width: 32px;
+            height: 32px;
+            border-radius: 50%;
+            margin-right: 10px;
+            object-fit: cover;
+        }
+    }
+
+    .status {
+        padding: 5px;
+        border-radius: 5px;
+
+        &.Registration {
+            color:green;
+            background-color: rgba(0, 128, 0, 0.151);
+        }
+        &.Confirmed{
+            color:rgb(94, 81, 6);
+            background-color: gold;
+        }
+    }
+}
