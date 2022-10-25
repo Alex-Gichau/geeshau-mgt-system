@@ -8,16 +8,13 @@
 ![image](https://user-images.githubusercontent.com/52883664/197789872-ae394fbc-4d3f-4afc-b341-fd0c6edad9c6.png)
 
 
-# REST API with Google Sheets & ReactJS
-Google Sheets as Database for input and viewing data. #DataManipulation
-* Follow through: https://youtu.be/5Vp4RVLNo3c
+# System Database Management Design Concept:
+* Google Sheets as Database for input and viewing data. #DataManipulation
+: https://youtu.be/5Vp4RVLNo3c
 
-# GOAL: 
-* Emulate portal based systems: 
-
-Neat Dashboard for data: 
-https://youtu.be/yKV1IGahXqA
-Demo Dashboard: https://demos.creative-tim.com/material-dashboard-react/#/dashboard
+# System Design References:  
+* Neat Dashboard for data: https://youtu.be/yKV1IGahXqA
+* Demo Dashboard: https://demos.creative-tim.com/material-dashboard-react/#/dashboard
 
 # Create a new repository on the command line
 1. git init
