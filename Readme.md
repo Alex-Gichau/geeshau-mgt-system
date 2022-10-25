@@ -1,3 +1,9 @@
+# How to implement: 
+* Change Users => Congregation
+* Change 
+* Change Earnings => 
+* Change Balance => 
+
 # Screenshots
 ![image](https://user-images.githubusercontent.com/52883664/197789872-ae394fbc-4d3f-4afc-b341-fd0c6edad9c6.png)
 
