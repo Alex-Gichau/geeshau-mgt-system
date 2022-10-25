@@ -15,6 +15,7 @@
 # System Design References:  
 * Neat Dashboard for data: https://youtu.be/yKV1IGahXqA
 * Demo Dashboard: https://demos.creative-tim.com/material-dashboard-react/#/dashboard
+* Possible Interface ( Recent transactions) https://www.instagram.com/p/CkH_YVqLGAn/?igshid=MDE2OWE1N2Q=
 
 # Create a new repository on the command line
 1. git init
