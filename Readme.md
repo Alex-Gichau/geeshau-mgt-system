@@ -5,7 +5,9 @@
 * Change Balance => 
 
 # Screenshots
-![image](https://user-images.githubusercontent.com/52883664/197789872-ae394fbc-4d3f-4afc-b341-fd0c6edad9c6.png)
+<img src="https://user-images.githubusercontent.com/52883664/197789872-ae394fbc-4d3f-4afc-b341-fd0c6edad9c6.png"/>
+<img src="https://user-images.githubusercontent.com/52883664/197926788-2ebd30df-a9d8-43fd-b774-a2edfca3141e.png"/>
+
 
 
 # System Database Management Design Concept:
