@@ -4,4 +4,5 @@
 -[ ] Display calendar of events and allow set different events [FUTURE]
 -[ ] Store and fetch list of members on dashboard. 
 -[ ] Show details of one member and allow editting. Mark full member or otherwise/status.
--[ ] 
+-[ ] Allow messaging via bulkk SMS service. 
+-[ ] Allow grouping of members into various CHurch groups
