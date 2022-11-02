@@ -9,6 +9,3 @@
 * Show details of one member and allow editting. Mark full member or otherwise/status.
 * Allow messaging via bulkk SMS service. 
 * Allow grouping of members into various Church groups
-
-
-
