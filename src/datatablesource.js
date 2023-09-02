@@ -35,7 +35,7 @@ export const userRows = [
     username: 'Joh Allan',
     status: 'pending',
     email: 'joh@gmail.com',
-    age: '99',
+    age: '29',
   },
   {
     id: 13,
