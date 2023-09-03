@@ -1,11 +1,16 @@
 import './sidebar.scss';
 import {AccountCircleRounded, CreditCard, Dashboard, InsertChartOutlined, LocalShippingOutlined, LogoutRounded, NotificationsNoneSharp, PersonOutline, PsychologyAltOutlined, Settings,SettingsSystemDaydream, StoreMallDirectoryOutlined } from '@mui/icons-material';
+import '../../pages/invoices/Invoices';
+
 
 const Sidebar = () => {
+
+//  https://sheetdb.io/api/v1/iwggwlq423ayl
+
     return (
         <div className='sidebar'>
             <div className='top'>
-                <span className='logo'>PCEA Juja Township</span>
+                <span className='logo'>Geeshau Art</span>
             </div>
             <hr />
             <div className='center'>
@@ -18,7 +23,7 @@ const Sidebar = () => {
                     <p className="title">LISTS</p>
                     <li>
                         <PersonOutline className='icon'/>
-                        <span>Users</span>
+                        <span>Clients</span>
                     </li>
                     <li>
                         <StoreMallDirectoryOutlined className='icon'/>

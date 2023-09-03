@@ -4,6 +4,7 @@ import List from './pages/list/List';
 import Login from './pages/login/Login';
 import New from './pages/new/New';
 import Single from './pages/single/Single';
+import Invoices from './pages/invoices/Invoices'
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
           <Route path="/">
             <Route index element={<Home/>}/>
             <Route path="login" element={<Login/>}/>
+            <Route path="invoices" element={<Invoices/>}/>
             <Route path="users">
               <Route index element={<List/>}/>
               <Route path=":userId" element={<Single/>}/>
