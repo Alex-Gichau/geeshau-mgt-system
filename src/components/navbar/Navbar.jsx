@@ -37,7 +37,7 @@ const Navbar = () => {
             <ListOutlined className="icon"/>
           </div>
           <div className="item">
-            <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2F%40whatifsanimated%2Fcommunity&psig=AOvVaw10Kmg-eWNU8dI8YJwMXCRj&ust=1693780566197000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJi_1bf-jIEDFQAAAAAdAAAAABAS" alt="geeshau-logo" className="logo"/>
+            <img src="https://mega.nz/file/Pq5k3ZRD#3Dkn5cgR6ozxvHxthFZ7NhQTng51uA4i3oWDFqBaI6E" alt="geeshau-logo" className="logo"/>
           </div>
         </div>
       </div>

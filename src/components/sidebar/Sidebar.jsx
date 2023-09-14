@@ -1,6 +1,5 @@
 import './sidebar.scss';
 import {AccountCircleRounded, CreditCard, Dashboard, InsertChartOutlined, LocalShippingOutlined, LogoutRounded, NotificationsNoneSharp, PersonOutline, PsychologyAltOutlined, Settings,SettingsSystemDaydream, StoreMallDirectoryOutlined } from '@mui/icons-material';
-import '../../pages/invoices/Invoices';
 
 
 const Sidebar = () => {
@@ -35,7 +34,7 @@ const Sidebar = () => {
                     </li>
                     <li>
                         <LocalShippingOutlined className='icon'/>
-                        <span>Delivery</span>
+                        <span routepath="/invoices">Invoices</span>
                     </li>
                     <p className="title">USEFUL</p>
                     <li>

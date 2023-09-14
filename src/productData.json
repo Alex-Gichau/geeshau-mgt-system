@@ -1,0 +1,566 @@
+[
+    {
+        "products": "2D animations (1 min or less)",
+        "description": "Motion rigging, speech engineering, rendering and production of ready-to-use videos",
+        "sellingPrice": 5070,
+        "id": 2
+    }, {
+        "products": "2D animations (10 min)",
+        "description": "Motion rigging, speech engineering, rendering and production of ready-to-use videos",
+        "sellingPrice": 7540,
+        "id": 3
+    }, {
+        "products": "2D animations (15 min)",
+        "description": "Motion rigging, speech engineering, rendering and production of ready-to-use videos",
+        "sellingPrice": 7830,
+        "id": 4
+    }, {
+        "products": "2D animations (17 min)",
+        "description": "Motion rigging, speech engineering, rendering and production of ready-to-use videos",
+        "sellingPrice": 7970,
+        "id": 5
+    }, {
+        "products": "2D animations (2 min)",
+        "description": "Motion rigging, speech engineering, rendering and production of ready-to-use videos",
+        "sellingPrice": 5510,
+        "id": 6
+    }, {
+        "products": "2D animations (3 min)",
+        "description": "Motion rigging, speech engineering, rendering and production of ready-to-use videos",
+        "sellingPrice": 5940,
+        "id": 7
+    }, {
+        "products": "2D animations (4 min)",
+        "description": "Motion rigging, speech engineering, rendering and production of ready-to-use videos",
+        "sellingPrice": 6380,
+        "id": 8
+    }, {
+        "products": "2D animations (6 min)",
+        "description": "Motion rigging, speech engineering, rendering and production of ready-to-use videos",
+        "sellingPrice": 6960,
+        "id": 9
+    }, {
+        "products": "2D animations (8 min)",
+        "description": "Motion rigging, speech engineering, rendering and production of ready-to-use videos",
+        "sellingPrice": 7250,
+        "id": 10
+    }, {
+        "products": "A3 Foldable Forms",
+        "description": "Colored fill out forms on colored plain papers printed on 4 sides (pages 1 -4)",
+        "sellingPrice": 50,
+        "id": 11
+    }, {
+        "products": "A3 Foldable Material",
+        "description": "Material foldable for pinning to your notice board or small area mounts",
+        "sellingPrice": 60,
+        "id": 12
+    }, {
+        "products": "A4 Brochure Design",
+        "description": "Have your informations packed in a master piece design A4 size",
+        "sellingPrice": 650,
+        "id": 13
+    }, {
+        "products": "A4 Foldable Material",
+        "description": "Material foldable for pinning to your notice board or small area mounts",
+        "sellingPrice": 45,
+        "id": 14
+    }, {
+        "products": "A4 Lamination",
+        "description": "Extra plastic coating A4 size of your plain paper",
+        "sellingPrice": 60,
+        "id": 15
+    }, {
+        "products": "A4 Plain Paper Printed",
+        "description": "Plain paper Printed colored document",
+        "sellingPrice": 5,
+        "id": 16
+    }, {
+        "products": "Advert Videos",
+        "description": "Includes intro,outro,wedding,event previews and any kind of videos per minute",
+        "sellingPrice": 1500,
+        "id": 17
+    }, {
+        "products": "App UI Design",
+        "description": "Figma prototyped fully designed application based on users preference. ",
+        "sellingPrice": 5000,
+        "id": 18
+    }, {
+        "products": "Balance",
+        "description": "Amount that was not cleared based on the last Geeshau invoice",
+        "sellingPrice": 0,
+        "id": 19
+    }, {
+        "products": "Banner Design",
+        "description": "Graphics generated based on the client information",
+        "sellingPrice": 500,
+        "id": 20
+    }, {
+        "products": "Banner Printed",
+        "description": "Graphics printed on a material 1m x 1m unit cost",
+        "sellingPrice": 550,
+        "id": 21
+    }, {
+        "products": "Bifold Brochure Printed",
+        "description": "Client information in a 2-folded pager leaf of paper",
+        "sellingPrice": 10,
+        "id": 22
+    }, {
+        "products": "Bifold Design",
+        "description": "Client information and pictorial designed and arranged",
+        "sellingPrice": 500,
+        "id": 23
+    }, {
+        "products": "Black Aluco Board",
+        "description": "Full board for 3D signages",
+        "sellingPrice": 3500,
+        "id": 24
+    }, {
+        "products": "Book Cover Design",
+        "description": "Design your book to match your audience ",
+        "sellingPrice": 350,
+        "id": 25
+    }, {
+        "products": "Booklets Design",
+        "description": "Design cost for an 8-pager A5 booklet or below",
+        "sellingPrice": 1500,
+        "id": 26
+    }, {
+        "products": "Bookmarks",
+        "description": "Laminated 50mm by 210mm tough cards with smooth texture. Lace included optionally",
+        "sellingPrice": 8,
+        "id": 27
+    }, {
+        "products": "Business Cards Design",
+        "description": "Both sided card with logo and contact details",
+        "sellingPrice": 300,
+        "id": 28
+    }, {
+        "products": "Business Cards Printed",
+        "description": "Plain 8.5cm x 5cm card printed and packed in 100pcs minimum",
+        "sellingPrice": 6,
+        "id": 29
+    }, {
+        "products": "Business Cards Printed w/ L",
+        "description": "Laminated 8.5cm x 5cm card printed and packed in 100pcs minimum",
+        "sellingPrice": 7,
+        "id": 30
+    }, {
+        "products": "Business Video Graphics",
+        "description": "Include tags, intros,lowerthirds and outro for your business",
+        "sellingPrice": 3000,
+        "id": 31
+    }, {
+        "products": "Certificate Design",
+        "description": "Modern certification documents designs to your liking.",
+        "sellingPrice": 650,
+        "id": 32
+    }, {
+        "products": "Company Profile Design",
+        "description": "Brief description of your business in a printable handbook",
+        "sellingPrice": 1000,
+        "id": 33
+    }, {
+        "products": "Design Changes",
+        "description": "Changes on your previous design after a period time or after usage",
+        "sellingPrice": 300,
+        "id": 34
+    }, {
+        "products": "Design Only",
+        "description": "Cost of artwork for a piece",
+        "sellingPrice": 500,
+        "id": 35
+    }, {
+        "products": "DL Envelopes + Printed ",
+        "description": "DL sized envelopes Printed minimum 1000pcs",
+        "sellingPrice": 4.5,
+        "id": 36
+    }, {
+        "products": "DL Envelopes Printed only",
+        "description": "DL sized envelopes Printed minimum 1000pcs",
+        "sellingPrice": 3.5,
+        "id": 37
+    }, {
+        "products": "Embroidery Origination",
+        "description": "Logo design is fed in the machine for current and later Printed",
+        "sellingPrice": 800,
+        "id": 38
+    }, {
+        "products": "Envelopes + Colored Printed",
+        "description": "DL sized envelopes Printed",
+        "sellingPrice": 10,
+        "id": 39
+    }, {
+        "products": "Envelopes Colored Printed",
+        "description": "DL sized envelopes Printed - Averagely large design",
+        "sellingPrice": 8,
+        "id": 40
+    }, {
+        "products": "Envelopes Design",
+        "description": "DL sized design for Printed",
+        "sellingPrice": 300,
+        "id": 41
+    }, {
+        "products": "Flyers package",
+        "description": "Flyer designed and editted and 120pages printed at minimal cost.",
+        "sellingPrice": 1000,
+        "id": 42
+    }, {
+        "products": "Flyers Printed A1",
+        "description": "Paper advertisement of your business",
+        "sellingPrice": 100,
+        "id": 43
+    }, {
+        "products": "Flyers Printed A4",
+        "description": "Paper advertisement of your business",
+        "sellingPrice": 10,
+        "id": 44
+    }, {
+        "products": "Flyers Printed A5",
+        "description": "Paper advertisement of your business / event - with lamination",
+        "sellingPrice": 12,
+        "id": 45
+    }, {
+        "products": "Flyers Printed A5",
+        "description": "Paper advertisement of your business",
+        "sellingPrice": 7,
+        "id": 46
+    }, {
+        "products": "Flyers Printed A6",
+        "description": "Paper advertisement of your business",
+        "sellingPrice": 7,
+        "id": 47
+    }, {
+        "products": "Forex Board Printed Sticker",
+        "description": "4mm design branded on forex board for a perfect touch",
+        "sellingPrice": 1880,
+        "id": 48
+    }, {
+        "products": "Frame Welding",
+        "description": "Metallic 1m x 1m frame welding and delivered",
+        "sellingPrice": 2500,
+        "id": 49
+    }, {
+        "products": "Glossy Booklets A3",
+        "description": "Charged per sheet",
+        "sellingPrice": 65,
+        "id": 50
+    }, {
+        "products": "Glossy Booklets A4",
+        "description": "Charged per sheet",
+        "sellingPrice": 50,
+        "id": 51
+    }, {
+        "products": "Glossy Booklets A5",
+        "description": "Charged per sheet",
+        "sellingPrice": 35,
+        "id": 52
+    }, {
+        "products": "Hoodie Branding",
+        "description": "Hoodies branded with your logo and slogan or anything you'd like",
+        "sellingPrice": 2200,
+        "id": 53
+    }, {
+        "products": "Invitation Cards [S]",
+        "description": "Cards approximately 85mm by 50mm one sided or double sided",
+        "sellingPrice": 6,
+        "id": 54
+    }, {
+        "products": "Invitation Cards A6",
+        "description": "Cards approximately 108mm by 50mm one sided or double sided",
+        "sellingPrice": 8,
+        "id": 55
+    }, {
+        "products": "Lanyard Branded Neck Tags",
+        "description": "Lase with a case attached containing employee name or access keys",
+        "sellingPrice": 50,
+        "id": 56
+    }, {
+        "products": "Large Format Sticker Printed",
+        "description": "Sticker 1m x 1m printed for your business",
+        "sellingPrice": 550,
+        "id": 57
+    }, {
+        "products": "Large Format Sticker Design",
+        "description": "Sticker 1m by 1m size and above to advertise your business",
+        "sellingPrice": 500,
+        "id": 58
+    }, {
+        "products": "Letterhead",
+        "description": "One pager & Multipager for your official documents and letters",
+        "sellingPrice": 350,
+        "id": 59
+    }, {
+        "products": "Logo Design ",
+        "description": "Illustration image for your brand to make it POP!",
+        "sellingPrice": 650,
+        "id": 60
+    }, {
+        "products": "Mockup Designs",
+        "description": "Generate any type of mockup designs for your workflow to sell your clients",
+        "sellingPrice": 350,
+        "id": 61
+    }, {
+        "products": "Mounted Pictures A4",
+        "description": "A4 on a mounting board ready to be pinned on the wall or desk",
+        "sellingPrice": 550,
+        "id": 62
+    }, {
+        "products": "Name Tag Design",
+        "description": "Tag label designs for individuals to be used for your business",
+        "sellingPrice": 250,
+        "id": 63
+    }, {
+        "products": "Name Tag Material",
+        "description": "Tag labels for individuals to be used for your business",
+        "sellingPrice": 60,
+        "id": 64
+    }, {
+        "products": "Narration Video",
+        "description": "Video matching your naration for you to tell your STORY!",
+        "sellingPrice": 2500,
+        "id": 65
+    }, {
+        "products": "Newsletters Design",
+        "description": "A cooperate description for your clients in your business",
+        "sellingPrice": 1000,
+        "id": 66
+    }, {
+        "products": "Paid",
+        "description": "Amount already paid by the client as initial payment",
+        "sellingPrice": 0,
+        "id": 67
+    }, {
+        "products": "PCMF Monthly Design",
+        "description": "PCMF monthly social media poster for fellowships",
+        "sellingPrice": 400,
+        "id": 68
+    }, {
+        "products": "Photo Collage Editting",
+        "description": "Photoshop editting and manipulation of images to get desirable result",
+        "sellingPrice": 750,
+        "id": 69
+    }, {
+        "products": "Photo Editting",
+        "description": "Redesign / Recolor / Enhance images for your special needs individual/business",
+        "sellingPrice": 650,
+        "id": 70
+    }, {
+        "products": "Potrait Art",
+        "description": "Illustration image drawn for your special need",
+        "sellingPrice": 1500,
+        "id": 71
+    }, {
+        "products": "Quality Rubber Stamps [No date]",
+        "description": "Official Stamps for your business without dates",
+        "sellingPrice": 1500,
+        "id": 72
+    }, {
+        "products": "Quality Rubber Stamps [With date]",
+        "description": "Official Stamps for your business with dates",
+        "sellingPrice": 2100,
+        "id": 73
+    }, {
+        "products": "Reciept Books A4",
+        "description": "Receipts written by your business to track orders to clients",
+        "sellingPrice": 950,
+        "id": 74
+    }, {
+        "products": "Reciept Books A5",
+        "description": "Receipts written by your business to track orders to clients",
+        "sellingPrice": 800,
+        "id": 75
+    }, {
+        "products": "Reciept Books Design",
+        "description": "Receipts written by your business to track orders to clients",
+        "sellingPrice": 300,
+        "id": 76
+    }, {
+        "products": "Report Booklets A4",
+        "description": "Book printed with your business report with a minimum of 4 pages",
+        "sellingPrice": 70,
+        "id": 77
+    }, {
+        "products": "Report Booklets A5",
+        "description": "Book printed with your business report with a minimum of 4 pages",
+        "sellingPrice": 60,
+        "id": 78
+    }, {
+        "products": "RePrinted",
+        "description": "Repeated Printed jobs of previous copies",
+        "sellingPrice": 4,
+        "id": 79
+    }, {
+        "products": "Ribbons",
+        "description": "Ribbon roll made of Satin - 1inch",
+        "sellingPrice": 150,
+        "id": 80
+    }, {
+        "products": "Signage Labour Cost",
+        "description": "Labour totals to 40% of the Total",
+        "id": 81
+    }, {
+        "products": "Signage Metal Welding",
+        "description": "Frame welding for your 3D signage design 1m x 1m",
+        "id": 82
+    }, {
+        "products": "Sliding Narration Video",
+        "description": "Video matching your naration for you to tell your STORY with images and stock videos. ",
+        "sellingPrice": 1200,
+        "id": 83
+    }, {
+        "products": "Social Media Banners",
+        "description": "Includes LinkedIn, YouTube,Whatsapp & IG customization",
+        "sellingPrice": 1000,
+        "id": 84
+    }, {
+        "products": "Social Media Posters",
+        "description": "Posters that can be shared on WhatsApp, Facebook and IG",
+        "sellingPrice": 500,
+        "id": 85
+    }, {
+        "products": "Social Media Posters Monthly",
+        "description": "Posters that can be shared on WhatsApp, Facebook and IG",
+        "sellingPrice": 400,
+        "id": 86
+    }, {
+        "products": "Stickers A1",
+        "description": "Poster advertisement stickers for your business",
+        "sellingPrice": 150,
+        "id": 87
+    }, {
+        "products": "Stickers A3",
+        "description": "Poster advertisement stickers for your business",
+        "sellingPrice": 60,
+        "id": 88
+    }, {
+        "products": "Stickers A4",
+        "description": "Poster advertisement stickers for your business",
+        "sellingPrice": 15,
+        "id": 89
+    }, {
+        "products": "T-shirt Branding",
+        "description": "Round neck t-shirt branded with your logo and slogan or anything you'd like",
+        "sellingPrice": 700,
+        "id": 90
+    }, {
+        "products": "Teardrop Banners L [3.5m]",
+        "description": "Crafted silk/cloth banners for your road-side advertisement. ",
+        "sellingPrice": 9500,
+        "id": 91
+    }, {
+        "products": "Teardrop Banners XL [5m]",
+        "description": "Crafted silk/cloth banners for your road-side advertisement. ",
+        "sellingPrice": 11500,
+        "id": 92
+    }, {
+        "products": "Total Design Cost",
+        "description": "For multiple designs.e.g. letterheads, business cards & logos",
+        "sellingPrice": 1200,
+        "id": 93
+    }, {
+        "products": "Transport/Shipping",
+        "description": "Dependent on location",
+        "sellingPrice": 200,
+        "id": 94
+    }, {
+        "products": "Trifold Brochure Printed",
+        "description": "Client information in a 3-folded pager leaf of paper",
+        "sellingPrice": 13,
+        "id": 95
+    }, {
+        "products": "Trifold Design",
+        "description": "Client information and pictorial arranged in order",
+        "sellingPrice": 550,
+        "id": 96
+    }, {
+        "products": "Video Editting",
+        "description": "Includes creation of new videos for weddings",
+        "sellingPrice": 1500,
+        "id": 97
+    }, {
+        "products": "Web UI Design",
+        "description": "Website design complete with interactionand responsiveness",
+        "sellingPrice": 10000,
+        "id": 98
+    }, {
+        "products": "Webinar Social Media Branding",
+        "description": "Branding package that can be used for your professional Online Audience and meetings. ",
+        "sellingPrice": 650,
+        "id": 99
+    }, {
+        "products": "Wedding Card Insert",
+        "description": "A5 average size insert card both sided content",
+        "sellingPrice": 10,
+        "id": 100
+    }, {
+        "products": "Wedding Cards A4",
+        "description": "Laminated event cards / programs used in weddings and social gatherings .e.g. Wedding, burial, party",
+        "sellingPrice": 25,
+        "id": 101
+    }, {
+        "products": "Wedding Cards A5",
+        "description": "Laminated event cards / programs used in weddings and social gatherings .e.g. Wedding, burial, party",
+        "sellingPrice": 15,
+        "id": 102
+    }, {
+        "products": "Wedding Flowery Card",
+        "description": "A4 flower ribbon bound wedding invitation card complete w/ inserts",
+        "sellingPrice": 85,
+        "id": 103
+    }, {
+        "products": "Wedding Invitation Poster",
+        "description": "Bride and groom picture and beautiful representation of their invitation to friends and family",
+        "sellingPrice": 500,
+        "id": 104
+    }, {
+        "products": "Wedding Programs",
+        "description": "A foldable card with songs for all your guests to bless your wedding",
+        "sellingPrice": 20,
+        "id": 105
+    }, {
+        "products": "Wedding Video Graphics",
+        "description": "Include tags, intros,lowerthirds and outro for your wedding",
+        "sellingPrice": 1500,
+        "id": 106
+    }, {
+        "products": "White Perspex Board",
+        "description": "Full perspex board to light up your signage board",
+        "sellingPrice": 4500,
+        "id": 107
+    }, {
+        "products": "Window Graphics Design",
+        "description": "Full branding of your office windows for your business",
+        "sellingPrice": 1000,
+        "id": 108
+    }, {
+        "products": "Window Graphics Printed",
+        "description": "Full sticker Printed for your office windows",
+        "sellingPrice": 1000,
+        "id": 109
+    }, {
+        "products": "Yellow Aluco Board",
+        "description": "Yellow board for mounting your 3D signage",
+        "sellingPrice": 3500,
+        "id": 110
+    }, {
+        "products": "Rollup Banner Narrow Base",
+        "description": "Banner with a narrow based stand upto 3ft in height for your clients",
+        "sellingPrice": 6500,
+        "id": 111
+    }, {
+        "products": "Rollup Banner Wide Base",
+        "description": "Banner with a narrow based stand upto 3ft in height for your clients",
+        "sellingPrice": 9000,
+        "id": 112
+    }, {
+        "products": "System Development",
+        "description": "Creating a fully working system for your implementation to serve better",
+        "sellingPrice": 35000,
+        "id": 113
+    }, {
+        "products": "Designer Masterclass : Intro",
+        "description": "The Ultimate Graphic Design Course Which Covers Photoshop, Illustrator, InDesign,Design Theory, Branding and Logo Design.",
+        "sellingPrice": 500,
+        "id": 114
+    }
+]
