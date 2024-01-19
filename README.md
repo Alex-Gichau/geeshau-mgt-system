@@ -1,4 +1,4 @@
-### Project Description
+## Project Description
 Hey devs, welcome. This is an Integrated Business Management system. It answers the following questions : 
 * <b>Problem definition :</b> Imagine a graphics design business where you wear all hats. That is, management, finance, logistics, designs and customer support. Sounds pretty overwhelming. I want to create a manegement system from scratch. I know there are many out there. But this custom for a specific client.
 * <b>Solution:</b> I have taken time to learn the workflow, cashflow and logistics of this agency. Now it is time to make something the fits the client perfectly.
@@ -6,7 +6,7 @@ Hey devs, welcome. This is an Integrated Business Management system. It answers 
 
 Some more details on the features are as listed below.
 
-# Project Features
+## Project Features
 
 <h3>System specifications/capabilities:</h3>
 
@@ -25,7 +25,7 @@ Integrating M-Pesa into your website will make it faster for your customers to p
 
 There are third-party developers who can help you with M-Pesa integration into your website. You will need to have a Paybill number to get started ¹. Here are some third-party developers who can offer you M-Pesa integration into website services. 
 
-<h2>Dashboard Data SEO</h2>
+## Dashboard Data SEO
 * Project status : A visual representation of the status of each project, such as the percentage of completion, the number of tasks completed, and the number of tasks remaining.
 * Task Management :  A list of tasks for each project, including the task name, the person responsible, the due date, and the status.
 * Time tracking :  A tool for tracking the time spent on each task or project, including the start time, end time, and total time spent.
