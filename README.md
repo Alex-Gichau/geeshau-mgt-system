@@ -1,3 +1,11 @@
+### Project Description
+Hey devs, welcome. This is an Integrated Business Management system. It answers the following questions : 
+* <b>Problem definition :</b> Imagine a graphics design business where you wear all hats. That is, management, finance, logistics, designs and customer support. Sounds pretty overwhelming. I want to create a manegement system from scratch. I know there are many out there. But this custom for a specific client.
+* <b>Solution:</b> I have taken time to learn the workflow, cashflow and logistics of this agency. Now it is time to make something the fits the client perfectly.
+* <b>Requirements:</b> MPESA APIs, bank APIs, Google Sheet JSON scripts and programming logic to put everything together.
+
+Some more details on the features are as listed below.
+
 # Project Features
 
 <h3>System specifications/capabilities:</h3>
