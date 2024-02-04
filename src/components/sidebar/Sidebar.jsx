@@ -1,3 +1,5 @@
+import React from 'react';
+import { Link } from 'react-router-dom';
 import './sidebar.scss';
 import {AccountCircleRounded, CreditCard, Dashboard, InsertChartOutlined, LocalShippingOutlined, LogoutRounded, NotificationsNoneSharp, PersonOutline, PsychologyAltOutlined, Settings,SettingsSystemDaydream, StoreMallDirectoryOutlined } from '@mui/icons-material';
 
@@ -22,7 +24,7 @@ const Sidebar = () => {
                     <p className="title">LISTS</p>
                     <li>
                         <PersonOutline className='icon'/>
-                        <span>Clients</span>
+                        <Link to="/Clients"><span>Clients</span></Link>
                     </li>
                     <li>
                         <StoreMallDirectoryOutlined className='icon'/>
@@ -30,7 +32,7 @@ const Sidebar = () => {
                     </li>
                     <li>
                         <CreditCard className='icon'/>
-                        <span>Orders</span>
+                        <Link to="/order"><span>Orders</span></Link>
                     </li>
                     <li>
                         <LocalShippingOutlined className='icon'/>

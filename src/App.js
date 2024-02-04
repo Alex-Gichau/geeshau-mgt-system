@@ -6,6 +6,8 @@ import New from './pages/new/New';
 import Single from './pages/single/Single';
 import Invoices from './pages/invoices/Invoices'
 import Products from './pages/products/Products'
+import { Order } from './pages/order/Order'
+import { Clients } from './pages/clients/Clients';
 
 function App() {
   return (
@@ -17,6 +19,8 @@ function App() {
             <Route path="login" element={<Login/>}/>
             <Route path="invoices" element={<Invoices/>}/>
             <Route path="products" element={<Products/>}/>
+            <Route path="order" element={<Order/>}/>
+            <Route path='clients' element={<Clients/>}/>
             <Route path="users">
               <Route index element={<List/>}/>
               <Route path=":userId" element={<Single/>}/>
